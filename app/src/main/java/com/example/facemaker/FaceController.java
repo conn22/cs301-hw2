@@ -1,3 +1,5 @@
+//@author James Conn
+
 package com.example.facemaker;
 
 import android.graphics.Color;
