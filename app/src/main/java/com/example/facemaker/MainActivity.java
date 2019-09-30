@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
         FaceController fCont = new FaceController(face);
 
         //establishes spinner text and sets listener
+        //Reference: https://developer.android.com/guide/topics/ui/controls/spinner#java
         Spinner spinner = (Spinner) findViewById(R.id.hairSpinner);
         ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(this,
                 R.array.hair_array, android.R.layout.simple_spinner_item);
