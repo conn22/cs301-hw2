@@ -1,4 +1,7 @@
 //@author James Conn
+/* Reference(?): Thank you to Glen Johnson (johnsonglent) for helping 
+ * me manually upload this to github since my computer sucks
+ */
 
 package com.example.facemaker;
 
